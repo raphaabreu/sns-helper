@@ -1,7 +1,7 @@
 {
   "name": "@raphaabreu/sns-helper",
   "version": "1.0.0",
-  "description": "",
+  "description": "A utility class that simplifies common SNS related tasks.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
